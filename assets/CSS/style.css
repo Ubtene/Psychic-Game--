@@ -1,0 +1,57 @@
+
+#container {
+
+background-color: #d85bd3;
+margin-top:0;
+padding-top: 40px;
+height:100%;
+padding-bottom: 100%;
+
+}
+
+.banner {
+
+border: dotted;
+width:54%;
+white-space: nowrap;
+margin-left:300px;
+font-family:Courier;
+padding-left: 40px;
+}
+
+
+#extra-box {
+
+
+	position: relative;
+	top:100px;
+
+
+}
+
+
+.text {
+	position: relative;
+	bottom: 70px;
+	right:70px;
+	margin-left:500px;
+	margin-top:0px;
+	color:#240842;
+	font-size:30px;
+	
+}
+
+
+
+#place-holder {
+
+	font-size: 20px;
+	font-weight: bold;
+	position: relative;
+	right:250px;
+	text-align: center;
+	padding-top: 30px;
+	line-height: 60px;
+	color:#392cd5;
+
+}
